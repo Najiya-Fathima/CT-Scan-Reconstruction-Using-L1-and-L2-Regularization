@@ -105,3 +105,4 @@ for ax, img, title in zip(axes, images, titles):
 
 plt.tight_layout()
 plt.show()
+
